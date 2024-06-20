@@ -35,5 +35,6 @@
 - **Back-end:** Node.js
 - **Database:** MongoDB
 - **Version Control:** Git and GitHub
-
-
+  
+### Netlify Link
+-https://basira-ecommerce.netlify.app/
