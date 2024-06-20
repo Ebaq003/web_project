@@ -31,8 +31,8 @@
   - **Manage Users:** Admins can manage customer accounts and details.
 
 ### Technology Stack
-- **Front-end:** HTML5, CSS3, JavaScript
-- **Back-end:** Node.js, Express.js
+- **Front-end:** HTML, CSS, JavaScript
+- **Back-end:** Node.js
 - **Database:** MongoDB
 - **Version Control:** Git and GitHub
 
